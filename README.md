@@ -1,4 +1,4 @@
-## Seja bem-vindo, aceita uma chicará de café?☕
+## Seja bem-vindo, aceita uma xicará de café?☕
 <div align="center">
   <a href="https://github.com/Iamalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iamalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
